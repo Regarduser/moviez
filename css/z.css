@@ -1,0 +1,52 @@
+body{
+    margin: 0 auto;
+}
+.heading1 {
+    background-color: beige;
+    height: 100px;
+    text-align: center;
+    font-size: 3em;
+    padding: 40px;
+}
+
+.nav1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 2em;
+    padding: 10px;
+    border-radius: 7px;
+
+}
+
+.ground{
+    display: flex;
+
+}
+
+.side1{
+    height: 550px;
+    width: 500px;
+    background-color: skyblue;
+    text-align: center;
+    font-size: 2em;
+    padding: 10px;
+}
+
+.side2{
+    height: 550px;
+    width: 100%;
+    background-color: greenyellow;
+    text-align: center;
+    font-size: 2em;
+    padding: 10px;
+}
+
+.last{
+    background-color: gray;
+    padding: 10px;
+    font-size: 2em;
+    margin-bottom: 0;
+    border-radius: 8px;
+    text-align: center;
+}
